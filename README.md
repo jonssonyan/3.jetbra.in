@@ -1,6 +1,8 @@
+[English](README_EN.md)
+
 # 3.jetbra.in
 
-3.jetbra.in 存档
+[3.jetbra.in](https://3.jetbra.in) 存档
 
 ## 使用方法
 
@@ -18,8 +20,8 @@
 
       ![index.html](img/index.html.gif)
 
-    - 打开控制台 Sources，查看源文件，可以看到完整的 jbKeys 变量，复制 jbKeys
-      值，存储在 [keys_origin.json](keys_origin.json)
+    - 打开控制台的 Sources 选项，查看源文件，可以看到完整的 jbKeys 变量值，复制 jbKeys
+      的值，存储在 [keys_origin.json](keys_origin.json)
 
       ![key_origin](img/key_origin.png)
 
